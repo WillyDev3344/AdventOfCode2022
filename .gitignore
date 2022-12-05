@@ -1,10 +1,6 @@
 *.csproj
-
-Day2/bin
-Day2/obj
-
-Day4/bin
-Day4/obj
+*/bin
+*/obj
 
 .vscode
 .vscode/launch.json
